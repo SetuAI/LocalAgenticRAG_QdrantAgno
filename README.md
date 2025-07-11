@@ -1,6 +1,7 @@
 # LocalAgenticRAG_QdrantAgno
 We are building a Local Agentic RAG using Qdrant and Agno . 
 
+<<<<<<< HEAD
 ------------------------------------------------------------------------------------
 
 Architecture : https://excalidraw.com/#json=GD-N6SZikgzoaw1pirf3Z,02HDcXNSOOVSTERXYVZkOg
@@ -18,3 +19,6 @@ Run Large Language Models (LLMs) locally using Ollama. [might be slow based on d
 -----------------------------------------------------------------------------------
 
 
+=======
+![Image Alt](https://github.com/SetuAI/LocalAgenticRAG_QdrantAgno/blob/11f5e35d8031efeeb0e9d35e05e619ebea94a3a0/LocalAgenticRAG.png)
+>>>>>>> 11677606e5be8f69d8bf90d50f1f83f7c9c8e9c3
